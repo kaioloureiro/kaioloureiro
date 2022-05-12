@@ -14,7 +14,7 @@
   <img align="center" alt="Kaio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kaio-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
-  <img align="right" alt="Kaio-pic" height="150" style="border-radius:50px;" src="https://avatars.akamai.steamstatic.com/a692caa4339edc0e01bc48351e55a3ba93869acf_full.jpg">
+  <img align="center" alt="Kaio-pic" height="150" style="border-radius:50px;" src="https://avatars.akamai.steamstatic.com/a692caa4339edc0e01bc48351e55a3ba93869acf_full.jpg">
 </div>
   
   ##
